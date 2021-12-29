@@ -493,13 +493,17 @@ body {
 ## OUTPUT:
 
 ### Home Page:
-![output](./images/screen1.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/95356096/147625968-c949518d-51ae-4dda-a3fe-2aa1ebbec24f.png)
+
 ### products Page:
-![output](./images/b.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/95356096/147625984-3d0d5f9f-c8b2-41f9-ba10-6f560c5965ef.png)
+
 ### people Page:
-![output](./images/c.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/95356096/147625998-258db706-2511-421f-893e-ad4b2f2277e3.png)
+
 ### contact Page:
-![output](./images/d.png)
+
+![Screenshot (5)](https://user-images.githubusercontent.com/95356096/147626010-9217ae5b-937b-4058-ae5d-2d898ed46a27.png)
 
 ## Result:
 
